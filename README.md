@@ -80,3 +80,66 @@ Tradicionais | Ágeis
 
 <hr>
 
+## Leitura comentada do **Guia do Scrum**:
+
+Foi criado no ramo de desenvolvimento de produtos de software, embora hoje é utilizado em um ramo de profissão;
+
+`developers` -> todas as pessoas incluidas no scrum;
+
+
+É um framewok leve afim de atingir objetivos e criar valor;
+
+Ele dá visibilidade maior para os problemas, afim de deixar explicito o que deveser resolvido;
+
+Orienta os relacionamentos e interações;
+
+### Teoria do Scrum
+
+Baseado no empirismo e no lean thinking: 
+
+Empirismo -> afirmando que o conhecimento vem através da experiência vivida;
+
+O lean thinking -> Focar no que é essencial (necessário) e eliminar o que não for útil naquele momento;
+
+Iterativo e Incremental -> ocorre por ciclos e sempre acrescentando;
+
+Possui 4 eventos dentro do evento `Sprint`;
+
+Os 3 pilares do Scrum:
+
+Tranparencia -> Visivel para todos, tanto os developers quanto os stakholders, a transparencia permite a inspeção;
+
+Inspeção -> Deve ser frequente e com excelência para detectar variações ou problemas indesejáveis. A inspeção habilita a adaptação;
+
+Adaptação -> Se houver algum aspecto que não condiz com o aceitável, é necessário fazer ajustes;
+
+### Valores do scrum
+
+São 5 valores do Scrum:
+- Compromisso -> Comprometimento em atingir os objetivos e suportar uns aos outros (dar suporte);
+- Foco -> Trabalho da sprint atingir as metas;
+- Abertura -> Abertos ao trabalhos e desafios;
+- Respeito -> Respeitar e ser respeitado no Scrum Team;
+- Coragem -> Coragem em fazer as coisas certas e emfrentar os problemas dificeis;
+
+### Componentes
+
+- Developers -> Define oque será feito na sprint; 
+Atribui uma `Definição de Pronto` introduzindo qualidade; 
+Adaptar o plano todo dia rumo a meta da sprint; 
+Auto-responsabilidade mutuo;
+
+- Product Owner (PO)-> Desenvolver e comunicar a meta do produto; 
+Criar e comunicar claramente os itens do `Product Backlog`;
+Ordenar do mais importante para o menos importantes os itens do Product BackLog;
+Decisão final é do PO deendo ser acatada por todos da organização;
+
+- Scrum Master (SM)-> O responsável pelo andamento do Scrum, se todos estão respeitando as regras do framework;
+Treinar os membros do time em termo de auto-gerenciamento e cross-funcionalidades;
+Tirar impedimentos para a entrega das tarefas;"O que esta te impedindo de entregar sua tarefa?!"
+Garantir que todos os eventos Scrum ocorram e sejam positivos;
+
+
+
+**Referência**
+[Guia do Scrum 2020](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-PortugueseBR-3.0.pdf)
