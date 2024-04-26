@@ -132,12 +132,53 @@ Auto-responsabilidade mutuo;
 - Product Owner (PO)-> Desenvolver e comunicar a meta do produto; 
 Criar e comunicar claramente os itens do `Product Backlog`;
 Ordenar do mais importante para o menos importantes os itens do Product BackLog;
-Decisão final é do PO deendo ser acatada por todos da organização;
+Decisão final é do PO devendo ser acatada por todos da organização;
 
 - Scrum Master (SM)-> O responsável pelo andamento do Scrum, se todos estão respeitando as regras do framework;
 Treinar os membros do time em termo de auto-gerenciamento e cross-funcionalidades;
 Tirar impedimentos para a entrega das tarefas;"O que esta te impedindo de entregar sua tarefa?!"
 Garantir que todos os eventos Scrum ocorram e sejam positivos;
+
+
+### Sprints
+
+Sprint -> Cada evento vai ter um contexto especifico.
+Mesmo horario e mesmo local para reduzir a complexidade;
+Duração de 1 mês ou 1 mês e meio;
+Só se inicia uma sprint após o término da anterior e sequencialmente;
+
+-> Nenhuma mudança é feita se colocar a meta da spring em risco;
+-> Permite previsibilidade;
+-> Se baseia no que já foi feito para a tomada de decisão voltada para o futuro;
+
+
+**Sprint Planning** -> 8 horas para sprints com duração de 1 mês // 4 semanas
+O PO deve já estar com o Product backlog pronto para a apresntação;
+O PO propõe o valor e utilidade do produto para essa sprint;
+Antes da finalização do Sprint Planning deve ser definido a Meta da Sprint;
+- A importância dessa sprint ;
+- O que pode ser feito na sprint; // termo de tempo e complexidade
+- Como será feito essa sprint; // Os developers que irão selecionar a forma de construção;
+
+Meta da Sprint ++ os itens do Product Backlog ++ Plano para entrega == Sprint Backlog.
+
+**Daily Scrum** -> duração de 15 minutos // mesmo horário e mesmo local // todos os dias durante a sprint;
+Seleção de técnicas e estruturas que desejam executar durante aquela sprint;
+Somente Developers// a não ser que o SM ou o PO seja developer também;
+Concentra-se no progresso  em direção a Meta da sprint e produza um plano de ação para o próximo dia de trabalho;
+Horário pode ser flexivel, podendo ocorrer no inicio do dia, ou no fim.
+
+
+**Sprint Review** -> Máx. 4 horas para uma sprint de 1 mês;
+Stakeholders juntamente com o Scrum Team irão testar e discutir sobre a sprint finalizada;
+Inspecionar o término da sprint e verificar se haverá adaptações para as futuras;
+O scrum Team apresenta os resultados para os stakeholders e discutem sobre a progresso em direção a meta do produto;
+
+**Sprint Retrospective** -> 3 horas em sprint de duração de 1 mês;
+Planejar maneiras de aumetar a qualidade e ficacia.
+Melhoria continua;
+O scrum team junto com o PO e o SM discutem o que deu certo e o que deu errado durante a sprint, se irá manter o que deu certo ou o que deu errado como será corrigido;
+
 
 
 
